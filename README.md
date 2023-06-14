@@ -1,4 +1,4 @@
-# Python_Games
+# Python Games
  Simple Python Games With GUI
 
 # Random Number Guessing Game:
